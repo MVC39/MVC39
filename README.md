@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MVC39, an It Supervisor in Puregold Price 
+- 👋 Hi, I’m @MVC39, an It Supervisor in Puregold
 - 👀 I’m interested in developing apps
 - 🌱 I’m currently learning Java and Web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any app development
 - 📫 How to reach me ...
 
 <!---
